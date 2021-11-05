@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheropyBot", "TheropyBot\TheropyBot.csproj", "{AE16FD83-6683-42F7-B6DD-621B03FA5B54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE16FD83-6683-42F7-B6DD-621B03FA5B54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE16FD83-6683-42F7-B6DD-621B03FA5B54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE16FD83-6683-42F7-B6DD-621B03FA5B54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE16FD83-6683-42F7-B6DD-621B03FA5B54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
